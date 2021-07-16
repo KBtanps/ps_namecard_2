@@ -85,6 +85,8 @@ img.profile-pic {
 
 .primary-info {
 	height: 15%;
+	padding-left: 2%;
+ 	padding-right: 2%;
 }
 
 .secondary-info {
