@@ -1,0 +1,169 @@
+html,
+body {
+  height: auto;
+  width: auto;
+  margin: 0;
+  justify-content: center;
+  background-color: white;
+}
+
+section {
+	display: block;
+	padding-left: 10%;
+	padding-right: 10%;
+	height: auto;
+}
+
+p {
+	margin: 0.2rem !important;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	object-fit: contain;
+}
+
+img.icon {
+	height: 1.5em;
+	width: auto;
+}
+
+img.profile-pic {
+	
+}
+
+.container {
+	margin: 0 auto;
+	position: relative;
+	height: 100%;
+}
+
+.row {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: nowrap;
+	flex-direction: row;
+	position: relative;
+	height: 100%;
+	width: 100%;
+}
+
+.col {
+	display: block;
+	flex-basis: 0;
+	flex-grow: 1;
+	flex-shrink: 1;
+	margin: 0;
+	padding: 0.1rem;
+	max-width: 100%;
+	max-height: 100%;
+	overflow: visible;
+}
+
+.col.is-8 {
+	flex: none;
+	width: 80%;
+}
+
+.name-title-company {
+	height: 100%;
+}
+
+.banner {
+	padding-left:0;
+	padding-right:0;
+	margin-bottom: -3.75vh;
+	height: auto;
+}
+
+.primary-info {
+	height: 15%;
+}
+
+.secondary-info {
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+.text-name {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    color: #333333;
+    font-size: 1.4em;
+    text-align: center;	
+}
+.text-chinese-name {
+    font-family: 'Noto Sans SC', sans-serif;
+    font-weight: 700;
+    color: #333333;
+    font-size: 1.2em;
+    text-align: center;	
+}
+
+.text-title-company {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #333333;
+    font-size: 1em;
+    text-align: center;
+}
+
+.text-detail {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #333333;
+    font-size: 1em;
+}
+
+.text-addressinfo {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #333333;
+    font-size: 0.9em;
+}
+
+.text-address{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    color: #f06432;
+    font-size: 0.75em;
+}
+
+.text-website {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    color: #f06432;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.bottom {
+	height: 25%;
+	margin-top: 3%;
+}
+
+.bottom-qr {
+	margin-top: 25%;
+	margin-bottom: 25%;
+}
+
+.button {
+	background-color: #f06432;
+	padding: 16px 64px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 48px;
+	font-family: 'Lato', sans-serif;
+	font-size: 3vh;
+	border-radius: 8px;
+	box-shadow: 3px 3px 3px 0 #888888;
+	color: white;
+	font-weight: 700;
+}
