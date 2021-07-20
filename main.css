@@ -130,6 +130,7 @@ img.profile-pic {
     font-weight: 400;
     color: #333333;
     font-size: 0.9em;
+    text-decoration: underline;
 }
 
 .text-address{
@@ -137,7 +138,6 @@ img.profile-pic {
     font-weight: 700;
     color: #f06432;
     font-size: 0.75em;
-    text-decoration: underline;
 }
 
 .text-website {
