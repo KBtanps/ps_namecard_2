@@ -146,7 +146,7 @@ img.profile-pic {
     color: #f06432;
     font-size: 1.2em;
     text-align: center;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .bottom {
@@ -161,14 +161,14 @@ img.profile-pic {
 
 .button {
 	background-color: #f06432;
-	padding: 16px 64px;
+	padding: 8px 64px;
 	text-align: center;
 	vertical-align: middle;
 	line-height: 48px;
 	font-family: 'Lato', sans-serif;
 	font-size: 3vh;
 	border-radius: 8px;
-	box-shadow: 3px 3px 3px 0 #888888;
+	box-shadow: 3px 3px 3px 0 #5555;
 	color: white;
 	font-weight: 700;
 }
