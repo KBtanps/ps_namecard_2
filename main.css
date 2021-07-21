@@ -16,6 +16,7 @@ section {
 
 p {
 	margin: 0.2rem !important;
+	display: inline-flex;
 }
 
 a {
@@ -124,7 +125,7 @@ img.profile-pic {
     font-weight: 400;
     color: #333333;
     font-size: 1em;
-    text-decoration: underline;
+    border-bottom: 1px solid #6D6D6D;
 }
 
 .text-addressinfo {
@@ -132,7 +133,7 @@ img.profile-pic {
     font-weight: 400;
     color: #333333;
     font-size: 0.9em;
-    text-decoration: underline;
+    border-bottom: 1px solid #6D6D6D;
 }
 
 .text-address{
