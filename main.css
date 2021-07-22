@@ -6,7 +6,15 @@ body {
   justify-content: center;
   background-color: white;
 }
-
+@media only screen and (max-width: 600px) {
+  body {
+	 height: auto;
+  	width: auto;
+ 	 margin: 0;
+ 	 justify-content: center;  
+ 	   background-color: lightblue;
+  }
+}
 section {
 	display: block;
 	padding-left: 10%;
