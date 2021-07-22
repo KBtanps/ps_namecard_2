@@ -177,4 +177,6 @@ img.profile-pic {
 	box-shadow: 2px 2px 4px #5555;
 	color: #a64622;
 	font-weight: 700;
+	white-space: nowrap;
+
 }
