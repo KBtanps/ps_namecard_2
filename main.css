@@ -6,12 +6,8 @@ body {
   justify-content: center;
   background-color: white;
 }
-@media only screen and (min-width: 768px) {
-  body {
-	    width: 60%;
- 	   background-color: lightblue;
-  }
-}
+/* @media only screen and (min-width: 768px) { } */
+
 section {
 	display: block;
 	padding-left: 10%;
