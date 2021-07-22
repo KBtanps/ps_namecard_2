@@ -156,9 +156,10 @@ img.profile-pic {
 	margin-top: 5%;
 }
 
-.bottom-qr {
-	margin-top: 25%;
-	margin-bottom: 25%;
+img.icon-contact {
+	height: 1.5em;
+	width: auto;
+	margin-right: 1em;
 }
 
 .button {
