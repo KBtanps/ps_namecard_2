@@ -6,12 +6,8 @@ body {
   justify-content: center;
   background-color: white;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 768px) {
   body {
-	 height: auto;
-  	width: auto;
- 	 margin: 0;
- 	 justify-content: center;  
  	   background-color: lightblue;
   }
 }
