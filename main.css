@@ -131,7 +131,6 @@ img.profile-pic {
     font-weight: 400;
     color: #333333;
     font-size: 1em;
-    text-decoration: underline;
 }
 
 .text-addressinfo {
@@ -139,7 +138,7 @@ img.profile-pic {
     font-weight: 400;
     color: #333333;
     font-size: 0.9em;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .text-address{
@@ -155,7 +154,6 @@ img.profile-pic {
     color: #f06432;
     font-size: 1.2em;
     text-align: center;
-    text-decoration: none;
 }
 
 .bottom {
